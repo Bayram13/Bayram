@@ -1,0 +1,47 @@
+[
+  {
+    "username": "veryunique12345test",
+    "is_valid": true,
+    "is_available": false,
+    "status": "Username is taken",
+    "methods_used": [
+      "web_interface"
+    ]
+  },
+  {
+    "username": "ultrararename9999xyz",
+    "is_valid": true,
+    "is_available": false,
+    "status": "Username is taken",
+    "methods_used": [
+      "web_interface"
+    ]
+  },
+  {
+    "username": "superlongusername2024test",
+    "is_valid": true,
+    "is_available": false,
+    "status": "Username is taken",
+    "methods_used": [
+      "web_interface"
+    ]
+  },
+  {
+    "username": "uniquestr1ng987654321",
+    "is_valid": true,
+    "is_available": false,
+    "status": "Username is taken",
+    "methods_used": [
+      "web_interface"
+    ]
+  },
+  {
+    "username": "rareuser098765test",
+    "is_valid": true,
+    "is_available": false,
+    "status": "Username is taken",
+    "methods_used": [
+      "web_interface"
+    ]
+  }
+]
